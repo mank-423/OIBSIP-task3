@@ -1,0 +1,20 @@
+.btn-remove{
+    padding:2%;
+    margin: 4%;
+    border-radius: 10%;
+    color:#fff;
+    background:red;
+}
+
+.btn-complete{
+    padding:2%;
+    margin: 2%;
+    border-radius: 10%;
+    color:#fff;
+    background:greenyellow;
+}
+
+.fnt {
+    font-weight: 400;
+    font-size: small;
+}
